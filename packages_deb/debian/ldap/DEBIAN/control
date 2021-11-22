@@ -1,0 +1,13 @@
+Package: ldap
+Source: pythonldap.py
+Version: 1.0
+Architecture: all
+Maintainer: Name, <email@address>
+Installed-Size: 15
+Depends: python-appindicator
+Section: python3
+Priority: optional
+Description: short description
+ A long description goes here.
+ .
+ It can contain multiple paragraphs

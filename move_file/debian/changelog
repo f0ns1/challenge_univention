@@ -1,0 +1,5 @@
+move-files (1.0) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #XXXXXX)
+
+ -- fonsi <fonsi@fonsi-GF63-Thin-10SCXR>  Mon, 22 Nov 2021 22:04:54 +0100
